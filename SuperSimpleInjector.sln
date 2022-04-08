@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperSimpleInjector", "SuperSimpleInjector\SuperSimpleInjector.csproj", "{AD7AC4F5-41B6-477C-85F9-5849C8C87F00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD7AC4F5-41B6-477C-85F9-5849C8C87F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7AC4F5-41B6-477C-85F9-5849C8C87F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7AC4F5-41B6-477C-85F9-5849C8C87F00}.Debug|x64.ActiveCfg = Debug|x64
+		{AD7AC4F5-41B6-477C-85F9-5849C8C87F00}.Debug|x64.Build.0 = Debug|x64
+		{AD7AC4F5-41B6-477C-85F9-5849C8C87F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7AC4F5-41B6-477C-85F9-5849C8C87F00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD7AC4F5-41B6-477C-85F9-5849C8C87F00}.Release|x64.ActiveCfg = Release|x64
+		{AD7AC4F5-41B6-477C-85F9-5849C8C87F00}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F1BB0F0-42BC-4255-B950-5A87699E157E}
+	EndGlobalSection
+EndGlobal
